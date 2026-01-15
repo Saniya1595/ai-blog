@@ -1,0 +1,41 @@
+🚀 AI Blog Blaster – Gen-Z AI Blogging Platform
+
+AI Blog Blaster is a full-stack MERN application that allows users to generate creative blog content using Artificial Intelligence and store it securely in MongoDB. The platform features a Gen-Z themed neon UI with animations for a fun and engaging writing experience.
+
+✨ Features
+
+🧠 AI-powered blog generation using OpenAI API
+
+💾 Blogs are saved automatically to MongoDB
+
+⚡ Gen-Z animated frontend with Framer Motion
+
+🔐 Secure environment configuration using .env
+
+🌐 MERN stack architecture
+
+📂 Clean project structure for professional deployment
+
+🛠 Tech Stack
+
+Frontend
+
+React.js
+
+Framer Motion
+
+Axios
+
+Google Fonts
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB + Mongoose
+
+OpenAI API
+
+JWT Authentication
