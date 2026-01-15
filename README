@@ -18,24 +18,24 @@ AI Blog Blaster is a full-stack MERN application that allows users to generate c
 
 🛠 Tech Stack
 
-Frontend
+* Frontend
 
-React.js
+* React.js
 
-Framer Motion
+* Framer Motion
 
-Axios
+* Axios
 
-Google Fonts
+* Google Fonts
 
 Backend
 
-Node.js
+* Node.js
 
-Express.js
+* Express.js
 
-MongoDB + Mongoose
+* MongoDB + Mongoose
 
-OpenAI API
+* OpenAI API
 
-JWT Authentication
+* JWT Authentication
